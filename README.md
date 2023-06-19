@@ -10,9 +10,9 @@ Sentiment Analysis Python Project is a GitHub repository that houses a powerful 
 - User-friendly GUI (using streamlit)
 
 ## Dataset, Feature Set Selection & Data Understanding
-Dataset : taken from Kaggle
-Review  : customers review on the product will be stored
-Label   : it will assign the positive and negative label to the review.
+- Dataset : taken from Kaggle
+- Review  : customers review on the product will be stored
+- Label   : it will assign the positive and negative label to the review.
 
 ## Screenshots
 Positive Review Sentiment Analysis
