@@ -15,4 +15,7 @@ Review  : customers review on the product will be stored
 Label   : it will assign the positive and negative label to the review.
 
 
+![Screenshot from 2023-06-19 20-29-34](https://github.com/DhanyaM2001/Review-Sentiment-Analysis/assets/92424242/8deabbc3-dbbb-43d6-9fa8-e9dbab823ff5)
+
+
 ![Screenshot from 2023-06-19 20-50-29 (1)](https://github.com/DhanyaM2001/Review-Sentiment-Analysis/assets/92424242/4bb7960b-0f43-4d4c-b608-d249becae29f)
